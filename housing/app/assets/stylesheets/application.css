@@ -10,4 +10,26 @@
  *
  *= require_self
  *= require_tree .
+ *= require bootstrap-markdown
+ *= require mediaelement_rails
+ *= require_self
  */
+$brand-primary: #5c68af;
+
+$navbar-default-bg: #5c68af;
+$navbar-default-color: #ffffff;
+$navbar-default-link-color: #dbe1fb;
+$navbar-default-link-hover-color: #ffffff;
+$navbar-default-link-active-color: #ffffff;
+$navbar-default-link-hover-bg: #5c68af;
+$navbar-default-brand-color: #ffffff;
+
+@import "bootstrap";
+
+@import "layout";
+@import "static_content";
+
+/*
+@import "lessons";
+@import "users";
+*/
