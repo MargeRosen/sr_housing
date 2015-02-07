@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  facility: MyString
+  current: false
+  year: 1
+  title_your_review: MyString
+  pros: 
+  cons: MyText
+  suggestions: 
+  score: 1
+
+two:
+  facility: MyString
+  current: false
+  year: 1
+  title_your_review: MyString
+  pros: 
+  cons: MyText
+  suggestions: 
+  score: 1
