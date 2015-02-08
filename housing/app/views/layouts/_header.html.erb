@@ -1,0 +1,59 @@
+<nav id="header" class="navbar navbar-default navbar-static-top" role="navigation">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+
+    <%= link_to "GoldenGuide", root_path, :class => "navbar-brand" %>
+  </div>
+
+  <!-- Collect the nav links, forms, and other content for toggling -->
+  <div class="collapse navbar-collapse navbar-ex1-collapse">
+    <ul class="nav navbar-nav">
+      <%= nav_link_to "Find Housing", housings_path %>
+      <%= nav_link_to "Reviews", reviews_path %>
+      <!  enter search box   -->
+
+      <%= nav_link_to "Reviews", reviews_path %>
+
+      <% if user_signed_in? %>
+        <%= nav_link_to "Give a Review", create_reviews_path %>
+      <% end %>
+    </ul>
+
+    <ul class="nav navbar-nav navbar-right">
+      <% if user_signed_in? %>
+        <li class="dropdown signed-in">
+          <%= link_to "#", :class => "dropdown-toggle", :"data-toggle" => "dropdown" do %>
+            <%= current_user.name %>
+
+            <b class="caret"></b>
+          <% end %>
+
+          <ul class="dropdown-menu">
+            <li><%= link_to "View Profile", user_path(current_user) %></li>
+            <li><%= link_to "Edit Account", edit_user_registration_path %></li>
+
+            <li class="divider"></li>
+
+            <li><%= link_to "Sign Out", destroy_user_session_path, :method => :delete  %></li>
+          </ul>
+        </li>
+      <% else %>
+        <li class="dropdown">
+          <%= link_to "Sign up / Sign in", "#", :class => "dropdown-toggle", :"data-toggle" => "dropdown" %>
+
+          <ul class="dropdown-menu">
+            <li><%= link_to "Sign up", new_user_registration_path %></li>
+            <li><%= link_to "Sign in", new_user_session_path %></li>
+
+            <li class="divider"></li>
+          </ul>
+        </li>
+      <% end %>
+    </ul>
+  </div>
+</nav>
