@@ -1,0 +1,31 @@
+#header {
+  .navbar-brand {
+    margin-top: 7px;
+    width: 125px;
+    height: 35px;
+    text-indent: -5000em;
+    background: url(asset-path('logo.png')) top left no-repeat;
+  }
+}
+
+#footer {
+  margin-top: 20px;
+  padding: 15px;
+  font-size: 12px;
+  color: #777777;
+  background: #f4f4f4;
+  border-top: 1px solid #dddddd;
+
+  p, ul {
+    margin: 0;
+    padding: 0;
+
+    a {
+      color: #333333;
+    }
+  }
+
+  ul {
+    margin-bottom: 10px;
+  }
+}

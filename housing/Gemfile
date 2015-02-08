@@ -24,6 +24,8 @@ end
 gem "sass"
 gem "sass-rails", ">= 3.2"
 gem "bootstrap-sass", "~> 3.0.0.0.rc"
+gem "rails-bootstrap-markdown"
+gem "mediaelement_rails"
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier' #'>= 2.2.2'

@@ -1,11 +1,14 @@
 Housing::Application.routes.draw do
   resources :reviews
 
+ get ':action' => 'static_content#:action'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-   root 'reviews#index'
+  # root 'reviews#index'
+  root :to => 'static_content#home'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'

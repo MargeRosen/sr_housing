@@ -1,0 +1,77 @@
+// Place all the styles related to the StaticContent controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.home {
+  font-size: 14px;
+  text-align: center;
+
+  p.large {
+    font-size: 18px;
+  }
+}
+
+.about {
+  .hero-unit {
+    p {
+      margin-bottom: 25px;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  .media {
+    a {
+      img {
+        width: 120px;
+      }
+    }
+  }
+}
+
+.teachers {
+  font-size: 14px;
+  text-align: center;
+
+  .stars {
+    p {
+      text-align: center;
+    }
+  }
+
+  section {
+    h4 {
+      text-align: left
+    }
+
+    p {
+      text-align: left
+    }
+    margin-bottom: 50px;
+  }
+}
+
+.legal {
+  .heading {
+    text-align: center;
+
+    h1 {
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-family: Georgia, serif;
+      font-size: 12px;
+      font-style: italic;
+    }
+  }
+
+  h2 {
+    font-family: Georgia, serif;
+    font-weight: normal;
+    font-size: 18px;
+    font-style: italic;
+  }
+}
