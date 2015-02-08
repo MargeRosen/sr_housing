@@ -32,7 +32,7 @@ This can be a very stressful, unwelcomed transition for the senior and the
 burden often falls to adult children to help their parents find the right
 facility, in the needed location, that’s affordable.
 
-This is a big decision. Finding and researching senior facilities currently takes
+This is a big decision. Finding and researching senior facilities takes
 too much time.  Most people do not know where to find government data necessary
 to make good decisions.
 
@@ -101,7 +101,7 @@ rails s
 
 6)  Flesh out more functionality
 
-7)  Allow Members to contact facilities for more info and to schedule a viewing
+7)  Allow Members to contact facilities for more info and to schedule a viewing.
 
 8)  Allow Facilities topost openings for a price (profit stream)
 
