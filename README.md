@@ -3,6 +3,9 @@
 
 ####Your Compass Through the Senior Housing Maze
 
+
+![Alt text] (http://i1298.photobucket.com/albums/ag57/MasterclassU/a352a38f-7951-4d81-9d2e-b189265b24ed_zpsbczgv0lu.jpg "Golden Guide")
+
 Golden Guide is a platform to easily find all the senior housing information you
 need to help make the right choice for you or your loved ones!
 
@@ -70,10 +73,10 @@ Develop a platform -- ONE place to find all the senior housing data:
 
 Our team is comprised of:
 
-* @MargeRosen - Biz and sole Dev (Github and twitter)
-* @marilee_mv - Designer (twitter)
-* @arriechoy -  Designer (twitter)
-* @hollyh     - Designer (Github)
+* Marge Rosen - Team Lead, Biz, WebDev @MargeRosen (Github and twitter)
+* Marilee Veniegas - Designer    @marilee_mv  (twitter)
+* Allie Choy -  Designer         @arriechoy  (twitter)
+* Holly Henke - SME and Designer @hollyh     (Github)
 
 ###Contributing
 
