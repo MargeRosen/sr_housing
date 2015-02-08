@@ -11,19 +11,30 @@ Users can easily see ratings from city, state and federal government.
 Members can contribute a review
 
 This applications was designed and developed on February 6-8, 2015 for the
-Zillow - University of Washington #hackhousing weekend.
 
+Zillow & The University of Washington Host "Hack Housing: Empowering Smarter Decisions" – A Weekend Hackathon Contest.
 
 Our app is live at https://frozen-dusk-7061.herokuapp.com/.
 
-You can also check out this demo screencast of our application on YouTube.
 
-Challenge and Approach
+###Challenge and Approach
+
+####The Problem
+
+####The Solution
+
+Develop a platform -- ONE place to find senior housing listing with
+* Facility and elder service details
+* Location and current openings
+* Monthly costs
+* Government ratings including safety and quality evauations from data.medicare.gov, and the State of Washington.
+
+* Cusomer reviews.
 
 Our submission is for Challenge #3: Build an app that provides an example of an Awesome Hackathon submission.
 
-After deeper research and consulting with HUD and Socrata reps we
-Pivoted at lunchtime on Satuday.
+After deeper research and consulting with HUD and Socrata reps we iterated and
+pivoted at lunchtime on Satuday.
 
 ###Our approach for satisfying this challenge was to:
 
@@ -47,7 +58,15 @@ Our team is comprised of:
 
 ###Contributing
 
-In order to build and run our app:
+In order to build and run our app:  Ruby 2.0.0, Rails 4.0.0
+
+To set-up this app in development, run these commands:
+
+```
+bundle
+rake db:migrate
+rails s
+```
 
 ###Possible Improvements:
 
