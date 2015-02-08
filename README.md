@@ -15,9 +15,9 @@ Members can contribute a review.
 
 This applications was designed and developed on February 6-8, 2015 for the
 Zillow & The University of Washington Host "Hack Housing: Empowering Smarter
-Decisions" – A Weekend Hackathon Contest.
+Decisions" – A Weekend Hackathon Contest. #zillow-hackhousing
 
-Our app is live at https://frozen-dusk-7061.herokuapp.com/.
+The app modeles customer ratings at https://frozen-dusk-7061.herokuapp.com/.
 
 
 ###Challenge and Approach
@@ -32,9 +32,9 @@ This can be a very stressful, unwelcomed transition for the senior and the
 burden often falls to adult children to help their parents find the right
 facility, in the needed location, that’s affordable.
 
-This is a big decision.  Facility researching currently takes too much time -
-Most perople do not know where to find government data neccessary to make good
-decisions.
+This is a big decision. Finding and researching senior facilities currently takes
+too much time.  Most people do not know where to find government data necessary
+to make good decisions.
 
 
 ####The Solution
@@ -42,12 +42,13 @@ decisions.
 Golden Guide is a platform to easily find all the senior housing information
 you need to help make the right choice for you or your loved ones!
 
-Develop a platform -- ONE place to find all the senior housing data
+Develop a platform -- ONE place to find all the senior housing data:
+
 * Facility and elder service details
 * Location and current openings
 * Monthly costs
-* Government ratings including safety and quality evauations from data.medicare.
-gov and the State of Washington.
+* Government ratings for safety and quality evauations from data.medicare.gov
+* State, city inspection reports
 * Cusomer reviews.
 
 
