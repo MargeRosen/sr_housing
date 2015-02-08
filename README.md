@@ -42,7 +42,7 @@ decisions.
 Golden Guide is a platform to easily find all the senior housing information
 you need to help make the right choice for you or your loved ones!
 
-Develop a platform -- ONE place to find senior housing listing with
+Develop a platform -- ONE place to find all the senior housing data
 * Facility and elder service details
 * Location and current openings
 * Monthly costs
@@ -50,8 +50,6 @@ Develop a platform -- ONE place to find senior housing listing with
 gov and the State of Washington.
 * Cusomer reviews.
 
-
-After deeper research and consulting with HUD and Socrata reps we iterated around lunchtime on Satuday, resulting in an re-design.
 
 ###Our approach for satisfying this challenge was to:
 
@@ -62,6 +60,9 @@ After deeper research and consulting with HUD and Socrata reps we iterated aroun
 * Stub a basic Ruby on Rails app
 * CRUD for User reviews
 * Shared on Github
+* Consult with HUD and Socrata experts
+* Deeper research into government datasets
+* Iterated and re-designed
 
 
 ###Team Members
