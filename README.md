@@ -3,7 +3,7 @@ sr_housing
 
 ##Golden Guide
 
-Your Compass Through the Senior Housing Maze.
+####Your Compass Through the Senior Housing Maze.
 
 Search for senior housing by criteria such as location, services provided,
 cost and ratings.
@@ -17,6 +17,7 @@ Zillow - University of Washington #hackhousing weekend.
 
 
 Our app is live at https://frozen-dusk-7061.herokuapp.com/.
+
 You can also check out this demo screencast of our application on YouTube.
 
 Challenge and Approach
@@ -42,8 +43,11 @@ Pivoted at lunchtime on Satuday.
 Our team is comprised of:
 
 @MargeRosen - Biz and sole Dev (Github and twitter)
+
 @marilee_mv - Designer (twitter)
+
 @arriechoy -  Designer (twitter)
+
 Holly Henke - Designer
 
 ###Contributing
@@ -52,13 +56,16 @@ In order to build and run our app:
 
 ###Possible Improvements:
 
-1) CSS styling - make it attractve.
+1) CSS styling - make it attractve
+
 2) Member sign-in functionality
+
 3) Add additional sorting functionality for search
+
 4) Add map to geolocate properties
+
 5)
 
-Deploy your the code to Heroku
 
 ### License
 
