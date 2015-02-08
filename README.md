@@ -73,7 +73,7 @@ Our team is comprised of:
 * @MargeRosen - Biz and sole Dev (Github and twitter)
 * @marilee_mv - Designer (twitter)
 * @arriechoy -  Designer (twitter)
-* Holly Henke - Designer
+* @hollyh     - Designer (Github)
 
 ###Contributing
 
