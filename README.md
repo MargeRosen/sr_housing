@@ -1,9 +1,7 @@
-sr_housing
-
 
 ##Golden Guide
 
-####Your Compass Through the Senior Housing Maze.
+####Your Compass Through the Senior Housing Maze
 
 Search for senior housing by criteria such as location, services provided,
 cost and ratings.
@@ -42,13 +40,10 @@ Pivoted at lunchtime on Satuday.
 
 Our team is comprised of:
 
-@MargeRosen - Biz and sole Dev (Github and twitter)
-
-@marilee_mv - Designer (twitter)
-
-@arriechoy -  Designer (twitter)
-
-Holly Henke - Designer
+* @MargeRosen - Biz and sole Dev (Github and twitter)
+* @marilee_mv - Designer (twitter)
+* @arriechoy -  Designer (twitter)
+* Holly Henke - Designer
 
 ###Contributing
 
