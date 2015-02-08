@@ -36,25 +36,22 @@ This is a big decision.  Facility researching currently takes too much time -
 Most perople do not know where to find government data neccessary to make good
 decisions.
 
-Golden Guide is a platform to easily find all the senior housing information
-needed to make the right choice for you!
-
 
 ####The Solution
 
-###Golden Guide is a platform to easily find all the senior housing information
+Golden Guide is a platform to easily find all the senior housing information
 you need to help make the right choice for you or your loved ones!
 
 Develop a platform -- ONE place to find senior housing listing with
 * Facility and elder service details
 * Location and current openings
 * Monthly costs
-* Government ratings including safety and quality evauations from data.medicare.gov, and the State of Washington.
+* Government ratings including safety and quality evauations from data.medicare.
+gov and the State of Washington.
 * Cusomer reviews.
 
 
-After deeper research and consulting with HUD and Socrata reps we iterated and
-pivoted at lunchtime on Satuday.
+After deeper research and consulting with HUD and Socrata reps we iterated around lunchtime on Satuday, resulting in an re-design.
 
 ###Our approach for satisfying this challenge was to:
 
@@ -90,23 +87,24 @@ rails s
 
 ###Possible Improvements:
 
-1) CSS styling - make it more attractve
+1)  CSS styling - make it more attractve
 
-2) Member sign-in functionality to give reviews
+2)  Member sign-in functionality to give reviews
 
-3) Website moderation of comments to filter out inappropriate reviews
+3)  Website moderation of comments to filter out inappropriate reviews
 
-4) Add additional sorting functionality for facility search
+4)  Add additional sorting functionality for facility search
 
-5) Add map to geolocate properties
+5)  Add map to geolocate properties
 
-6) Flesh out more functionality
+6)  Flesh out more functionality
 
-7) Allow Members to contact facilities for more info and to schedule a viewing
+7)  Allow Members to contact facilities for more info and to schedule a viewing
 
-8) Allow Facilities topost openings for a price (profit stream)
+8)  Allow Facilities topost openings for a price (profit stream)
 
-9) Allow facilities to comment on a customer review.
+9)  Allow facilities to comment on a customer review.
+
 
 ### License
 
