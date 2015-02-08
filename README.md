@@ -17,7 +17,7 @@ This applications was designed and developed on February 6-8, 2015 for the
 Zillow & The University of Washington Host "Hack Housing: Empowering Smarter
 Decisions" – A Weekend Hackathon Contest. #zillow-hackhousing
 
-The app modeles customer ratings at https://frozen-dusk-7061.herokuapp.com/.
+The app modeles customer ratings at https://goldenguide.herokuapp.com/.
 
 
 ###Challenge and Approach
