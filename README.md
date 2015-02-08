@@ -89,7 +89,7 @@ rails s
 
 ###Possible Improvements:
 
-1)  CSS styling - make it more attractve
+1)  Facility search functionality
 
 2)  Member sign-in functionality to give reviews
 
@@ -106,6 +106,8 @@ rails s
 8)  Allow Facilities topost openings for a price (profit stream)
 
 9)  Allow facilities to comment on a customer review.
+
+10)  Add CSS styling from wireframes http://o14u5p.axshare.com/#p=home
 
 
 ### License
