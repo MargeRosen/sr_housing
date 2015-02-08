@@ -107,7 +107,7 @@ rails s
 
 9)  Allow facilities to comment on a customer review.
 
-10)  Add CSS styling from wireframes http://o14u5p.axshare.com/#p=home
+10) Add CSS styling from wireframes http://o14u5p.axshare.com/#p=home
 
 
 ### License
